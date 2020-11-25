@@ -1,6 +1,6 @@
 ### Hola, I'm Mohit Kandhari 👋
 
-- 🔭 I’m currently working on Developers Student Club M.B.M
+- 🔭 I’m the Student of Electronics and Computer Engineering
 - 🌱 I’m currently learning NodeJs
 - 👯 I’m looking to collaborate on Web Technologies
 - 🤔 I’m looking for help with WebD Documentations
