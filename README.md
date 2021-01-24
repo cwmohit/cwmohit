@@ -1,7 +1,7 @@
 ### Hola, I'm Mohit Kandhari 👋
 
 - 🔭 I’m the Student of Electronics and Computer Engineering
-- 🌱 I’m currently learning NodeJs
+- 🌱 I’m currently working NodeJs
 - 👯 I’m looking to collaborate on Web Technologies
 - 🤔 I’m looking for help with WebD Documentations
 - 💬 Ask me about React and any webd tech related stuff 
