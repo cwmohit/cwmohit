@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with WebD Documentations
 - 💬 Ask me about React and any webd tech related stuff 
 - 📫 How to reach me: [Linkedin - Mohit Kandhari](https://www.linkedin.com/in/mohit-kandhari-455a48186/)
-- 📫 [Portfolio-By-Mohit](https://portfolio-by-mohit.netlify.app/)
+- 📫 [Portfolio-By-Mohit](https://mohit-kandhari.netlify.app/)
 - 😄 Pronouns: He/His 
 - ⚡ Fun fact: I wrote my first program in 1st semester even i didn't know what is going on.
 
