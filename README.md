@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **WebD Documentations**
 
-- 👨‍💻 All of my projects are available at [Portfolio](http://mohit-kandhari.netlify.app/)
+- 👨‍💻 All of my projects are available - [Portfolio](http://mohit-kandhari.netlify.app/)
 
 - 💬 Ask me about **any webd tech related stuff**
 
