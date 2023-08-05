@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I wrote my first program in 1st semester even i didn't know what is going on.**
 
-- Writing: [Blogs](https://cwmohit-blogs.vercel.app/)
+- Writing: [Blogs](https://imblogs.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
