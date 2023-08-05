@@ -20,6 +20,8 @@
 
 - ⚡ Fun fact **I wrote my first program in 1st semester even i didn't know what is going on.**
 
+- Blogs: [Blogs](https://cwmohit-blogs.vercel.app/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/cwmohit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="cwmohit" height="30" width="40" /></a>
