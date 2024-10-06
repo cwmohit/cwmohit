@@ -18,8 +18,6 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jlG6fl93dOVkPMWXbH98lR56nrbEpuoI/view?usp=sharing)
 
-- ⚡ Fun fact **I wrote my first program in 1st semester even i didn't know what is going on.**
-
 - Writing: [Blogs](https://mohit-kandhari.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
