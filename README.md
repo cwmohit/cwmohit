@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **cwmohit@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jlG6fl93dOVkPMWXbH98lR56nrbEpuoI/view?usp=sharing)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1jlG6fl93dOVkPMWXbH98lR56nrbEpuoI/view?usp=sharing](https://media.instahyre.com/resume/2596713/d522321549/Mohit_Kandhari.pdf))
 
 - Writing: [Blogs](https://mohit-kandhari.vercel.app/)
 
