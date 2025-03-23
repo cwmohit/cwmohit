@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mohit kandhari</h1>
-<h3 align="center">A passionate software engineer from India</h3>
+<h1 align="left">Hi 👋, I'm Mohit kandhari</h1>
+<h3 align="left">A passionate software engineer from India</h3>
+<p align="left">With experience spanning Fintech, Retail, and Service-based industries, I’ve spent the past three years building products from the ground up, enhancing security, optimizing performance, and working on rendering strategies, GenAI agents, system upgrades, and backend improvements. Challenging debugging sessions and critical fixes have helped shape me into a better engineer 🚀.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cwmohit&label=Profile%20views&color=0e75b6&style=flat" alt="cwmohit" /> </p>
 
 - 🔭 I’m currently working on **NextJs and Typescript**
