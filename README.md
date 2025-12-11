@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **NextJs and Typescript**
 
-- 🌱 I’m currently learning **Web3 and blockchain**
+- 🌱 I’m currently learning **Web3 and AI techspace**
 
 - 👯 I’m looking to collaborate on **Web Technologies**
 
